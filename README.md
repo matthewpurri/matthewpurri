@@ -1,5 +1,7 @@
 ### Hi there!
-My name is Matthew Purri, I am currently a PhD candidate at Rutgers University. I am studying computer vision and machine learning. My thesis is concentrated on understanding object properties from visual information. I have previously interned at Amazon, Clarifai, and Kitware. I am currently working on studying polarized light for improving computer vision algorithms and using transformer networks for vision tasks.
+My name is Matthew Purri, I am currently researching and building an ML company focused on video understanding. I was recently a PhD candidate at Rutgers University (graduated May 2023). I studyied computer vision and machine learning. My thesis is concentrated on understanding object properties from visual information. I have previously interned at Amazon, Clarifai, and Kitware.
+
+See all of my research on my google scholar: https://scholar.google.com/citations?user=coyatVIAAAAJ&hl=en
 
 ### Current Topics of Interest
 * Transformer Networks
